@@ -9,7 +9,7 @@ Estoy estudiando programación en la UTN (tecnicatura), y me la paso codeando, p
 ### 🔎 Un poco más sobre mí
 
 - ✍️ Estudio programación en la UTN + aprendo viendo videos en YouTube y leyendo documentación.
-- 💻 Trabajo con **React** y **Vite** en varios proyectos, tanto propios como de la facultad.
+- 💻 Trabajo con **.Net Framework** y **React** en varios proyectos, tanto propios como de la facultad.
 - 📦 Uso librerías como **Bootstrap**, **Nodemon**, **dotenv**, entre otras.
 - 🔌 Estoy aprendiendo a **consumir APIs**... y también a **crearlas**.
 - 🧠 Me gusta entender cómo funciona todo, hasta el detalle más mínimo. A veces eso me frena, pero también me hace aprender a fondo.
@@ -20,7 +20,7 @@ Estoy estudiando programación en la UTN (tecnicatura), y me la paso codeando, p
 ### 🚧 En mi GitHub vas a encontrar...
 
 - Proyectos de la facu 👨‍🏫
-- Experimentos con React ⚛️
+- Experimentos con  .Net Framwork
 - Cosas que rompí y después arreglé (a veces sin saber cómo) 🔧
 - Intentos de armar APIs y manejar rutas, errores, datos, etc.
 
@@ -30,6 +30,6 @@ Estoy estudiando programación en la UTN (tecnicatura), y me la paso codeando, p
 
 Si querés escribirme para compartir ideas, dudas, laburos o simplemente charlar sobre código:
 
-📧 **castellino@gmail.com**
+📧 **castellino.u@gmail.com**
 
 ¡Siempre abierto a conectar con gente del mundo dev!
